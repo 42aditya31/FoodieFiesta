@@ -31,6 +31,10 @@ Getting the project up and running is a breeze:
    git clone https://github.com/your-username/online-food-order-web.git
 
 
+## 🚀 See the Website
+
+You can explore the Online Food Order Web Application live here: [FoodieFiesta](https://42aditya31.github.io/FoodieFiesta/)
+
 ## 🚧 Features Coming Soon
 
 - **Order Summary**: Review your order before checkout.
@@ -52,4 +56,5 @@ We welcome contributions! To help improve the project:
 - **Dark Mode**: Toggle between dark and light themes.
 - **Multi-Country Menu**: Add items from different cuisines.
 - **Order History**: Track past orders for returning customers.
+
 
