@@ -31,19 +31,25 @@ Getting the project up and running is a breeze:
    git clone https://github.com/your-username/online-food-order-web.git
 
 
-🚧 Features Coming Soon
-Order Summary: Review your order before checkout.
-Payment Integration: Add payment gateways like Stripe or PayPal (coming soon).
-User Authentication: Log in to save your orders for later (future enhancement).
-👨‍💻 How to Contribute
-If you're excited to help us improve this project, you're more than welcome to contribute! Here's how:
+## 🚧 Features Coming Soon
 
-Fork the repository.
-Create your feature branch (git checkout -b feature/your-feature).
-Commit your changes (git commit -m 'Add a new feature').
-Push to your branch (git push origin feature/your-feature).
-Open a Pull Request, and we’ll review your changes!
-💡 Ideas for Future Development
-Dark Mode: Add a toggle to switch between dark and light themes for a better user experience.
-Multi-Country Menu: Expand the menu with items from different cuisines.
-Order History: Keep track of past orders for returning customers.
+- **Order Summary**: Review your order before checkout.
+- **Payment Integration**: Add payment gateways like Stripe or PayPal.
+- **User Authentication**: Log in to save orders for later.
+
+## 👨‍💻 How to Contribute
+
+We welcome contributions! To help improve the project:
+
+1. Fork the repository.
+2. Create a feature branch: `git checkout -b feature/your-feature`.
+3. Commit your changes: `git commit -m 'Add a new feature'`.
+4. Push to your branch: `git push origin feature/your-feature`.
+5. Open a Pull Request for review.
+
+## 💡 Ideas for Future Development
+
+- **Dark Mode**: Toggle between dark and light themes.
+- **Multi-Country Menu**: Add items from different cuisines.
+- **Order History**: Track past orders for returning customers.
+
